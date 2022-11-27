@@ -4,7 +4,7 @@
 
 <ul style="list-style: none;">
 <li>:seedling: Apprentissage du moment : React / TailWindCSS</li>
-<li>:octocat: Projet du moment : Mon Portfolio</li>
+<li>:octocat: Projet du moment : Améliorer mon portfolio</li>
 <li>:switzerland: Genève, Suisse</li>
 </ul> 
 
