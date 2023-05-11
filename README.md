@@ -3,8 +3,8 @@
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Etudiant en informatique et passionné de technologique depuis tout petit.</h3>
 
 <ul style="list-style: none;">
-<li>:seedling: Apprentissage du moment :  </li>
-<li>:octocat: Projet du moment : </li>
+<!-- <li>:seedling: Apprentissage du moment :  </li> -->
+<li>:octocat: Projet du moment : Site de quizz sur l'écologie</li>
 <li>:switzerland: Genève, Suisse</li>
 </ul> 
 
