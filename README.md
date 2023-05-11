@@ -1,6 +1,6 @@
 # :space_invader: Arian Dervishaj
 
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Etudiant en informatique et passionné de technologique depuis tout petit.</h3>
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Etudiant en informatique.</h3>
 
 <ul style="list-style: none;">
 <!-- <li>:seedling: Apprentissage du moment :  </li> -->
