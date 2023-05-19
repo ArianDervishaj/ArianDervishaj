@@ -4,7 +4,7 @@
 
 <ul style="list-style: none;">
 <!-- <li>:seedling: Apprentissage du moment :  </li> -->
-<li>:octocat: Projet du moment : Site de quizz sur l'écologie</li>
+<!-- <li>:octocat: Projet du moment : Site de quizz sur l'écologie</li> -->
 <li>:switzerland: Genève, Suisse</li>
 </ul> 
 
