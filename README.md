@@ -71,6 +71,3 @@ Network security demonstration exploring switch vulnerabilities and mitigation s
 
 - Completing eJPT certification
 - Advancing cybersecurity knowledge and practical skills
-- Exploring advanced penetration testing techniques
-- Contributing to open-source security tools
-
